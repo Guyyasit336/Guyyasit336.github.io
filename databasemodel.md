@@ -29,4 +29,4 @@ A database model is the overall strategy used by a database management system fo
  - ห้องสมุด: สมาชิกยืมหนังสือ → ตารางผู้ใช้, หนังสือ และการยืมเชื่อมโยงข้อมูล
  - โรงเรียน: นักเรียนลงทะเบียนเรียน → ตารางนักเรียน วิชา และการลงทะเบียนเชื่อมความสัมพันธ์
 ## My teammate
-
+[tepamorn](https://tepamorn.github.io)
