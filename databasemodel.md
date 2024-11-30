@@ -1,3 +1,4 @@
+README.md
 ## Database Model CISSP Glossary
 Describes the relationship between the data elements and provides a framework for organizing the data.
 
