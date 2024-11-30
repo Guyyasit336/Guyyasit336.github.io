@@ -1,4 +1,4 @@
 - กายสิทธิ์ ลิ้มสว่างวงศ์ 6530250336
   - ชื่อเล่น อาร์เซน่อล
   ![Alt text ](417748.jpeg)
-[Database Model](database-model.md)
+[Database Model](databasemodel.md)
