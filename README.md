@@ -2,4 +2,5 @@
 - ชื่อเล่น Arsenal
   ![Alt text ](417748.jpeg)
 [Database Model](database-model.md) <br>
-[tepamorn](https://tepamorn.github.io)
+[tepamorn](https://tepamorn.github.io) <br>
+[board-game](https://witchapolinaksorn.github.io/board-game)
